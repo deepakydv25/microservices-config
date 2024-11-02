@@ -1,0 +1,14 @@
+server:
+  port: 8082
+
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to loans REST APIs"
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@example.com"
+  onCallSupport:
+    - "1234567890"
+    - "9876543210"

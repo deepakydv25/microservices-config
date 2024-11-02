@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to loans PROD REST APIs"
+  contactDetails:
+    name: "John Doe - PROD Developer"
+    email: "john@example.com"
+  onCallSupport:
+    - "1234567890"
+    - "9876543210"
