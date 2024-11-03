@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to accounts PRODUCTION REST APIs"
+  message: "Welcome to accounts PROD webhook REST APIs"
   contactDetails:
     name: "John Doe - PROD Developer"
     email: "{cipher}2ca69b9185adb7dc1b851a954b9059442b0f5656ab16811eb4a0f1630cf2076fb5d27e07a97f4c2a6ee21009a133d169"
